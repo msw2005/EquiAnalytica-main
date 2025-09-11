@@ -1,0 +1,41 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# UV-generated files
+.python-version
+
+# Virtual environments
+.venv
+
+# Environment/config files
+.env
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# Data, logs, and temp files
+*.log
+*.tmp
+*test*
+reports/*
+!reports/
+*.md
+
+# Project-specific
+yahoo-finance-mcp/
+china-stock-mcp-server/
+akshare_mcp_server/
+todo.txt
+*.ipynb*
+stock_analysis_agent/prompt_testing.py
+stock_analysis_agent/sub_agents/fundamental_agent/agent_gr.py
+stock_analysis_agent/sub_agents/fundamental_agent/prompt_gr.py
+stock_analysis_agent/sub_agents/fundamental_agent/start_mcp_server.ps1
+get_available_models.py
+stock_analysis_agent/old_root_agent.py
