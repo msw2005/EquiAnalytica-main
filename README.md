@@ -39,7 +39,7 @@ mcp/
 ```
 
 ## Requirements
-- Developed and tested on **Linux**. Performance on Windows is not garanteed.
+- Developed and tested on **Linux**. Performance on Windows is not garanteed
 - Python 3.11+
 - Dependencies as listed in pyproject.toml, including:
   - [google-adk](https://pypi.org/project/google-adk/)
