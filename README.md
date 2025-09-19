@@ -17,7 +17,7 @@ The main agent coordinates these sub-agents and synthesizes their findings into 
 - Modular agent-based architecture
 - Integrates API, Google Search, and MCP tools for data gathering
 - Generates detailed, structured equity research reports
-- Flexible report output formats (PDF/HTML) with full Chinese language support
+- Flexible report output formats (PDF/HTML) with full Chinese language support.
 - Send reports via email to a specified recipient or distribution group
 
 ## Project Structure
