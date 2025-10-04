@@ -1,7 +1,7 @@
 
 # Equity Research Agent (EquiAnalytica)
 
-A multi-agent Python system for comprehensive stock analysis and equity research reporting.
+A multi-agent Python system for comprehensive stock analysis and equity research reporting;
 
 ## Overview
 
