@@ -15,6 +15,7 @@ The main agent coordinates these sub-agents and synthesizes their findings into 
 
 ## Features
 - Modular agent-based architecture
+- 
 - Integrates API, Google Search, and MCP tools for data gathering
 - Generates detailed, structured equity research reports,
 - Flexible report output formats (PDF/HTML) with full Chinese language support.
