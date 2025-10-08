@@ -9,7 +9,7 @@ A multi-agent Python system for comprehensive stock analysis and equity research
 - Fundamental analysis (financial statements, ratios, trends)
 - Technical analysis (price data, indicators, etc.)
 - Fund flow analysis (capital inflow/outflow, liquidity),
-- Policy analysis (government/regulatory news)
+- Policy analysis (government/regulatory news).
 
 The main agent coordinates these sub-agents and synthesizes their findings into a unified research report.
 
