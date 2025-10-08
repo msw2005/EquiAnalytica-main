@@ -3,6 +3,7 @@
 
 A multi-agent Python system for comprehensive stock analysis and equity research reporting
 
+
 ## Overview
 
 **equity-research-agent** leverages multiple specialized sub-agents to perform:
