@@ -19,7 +19,7 @@ if MODEL in GEMINI_LIST:
     model_in_use = MODEL
 else:
     model_in_use = LiteLlm(model=MODEL)
-
+// a
 
 analysis_agent = ParallelAgent(
     name="equity_research_pipeline",
