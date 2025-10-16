@@ -82,7 +82,7 @@ source .venv/bin/activate
 
 ### 2. MCP Configuration
 
-For the setup of MCP servers, please refer to the following:
+For the setup of MCP servers, please refer to the following,
   - [sequential-thinking](https://smithery.ai/server/@smithery-ai/server-sequential-thinking)
 
 If you use local MCP servers:
