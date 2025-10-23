@@ -104,6 +104,7 @@ def combine_reports(provided_ticker: str, company_name: str) -> dict:
 
         html_full = f"""
         <!DOCTYPE html>
+        
         <html lang="zh">
         <head>
             <meta charset="UTF-8">
