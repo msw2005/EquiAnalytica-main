@@ -1,4 +1,4 @@
-# List of Gemini models
+# List of Gemini modelsm
 GEMINI_LIST = [
     "gemini-2.5-flash-preview-05-20",
     "gemini-2.5-pro-preview-06-05",
@@ -16,4 +16,5 @@ MODEL = "gemini-2.5-pro-preview-06-05"
 
 # Validate that MODEL is defined in one of the lists
 assert MODEL in GEMINI_LIST + OTHER_LIST, \
+
     f"MODEL ('{MODEL}') must be in GEMINI_LIST or OTHER_LIST"
