@@ -130,7 +130,7 @@ reports/
     equity_research_report_<company_name>_<ticker>_<YYYYMMDD>.html  # or .pdf
 ```
 
-
+^^^
 ## License
 MIT
 
