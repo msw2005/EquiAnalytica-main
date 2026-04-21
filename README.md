@@ -14,6 +14,7 @@ A multi-agent Python system for comprehensive stock analysis and equity research
 - Policy analysis (government/regulatory news).
 
 The main agent coordinates these sub-agents and synthesizes their findings into a unified research report.
+k
 
 ## Features
 - Modular agent-based architecture
