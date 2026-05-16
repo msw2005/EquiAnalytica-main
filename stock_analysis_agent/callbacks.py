@@ -8,7 +8,7 @@ def save_agent_output(callback_context: CallbackContext) -> None:
     state = callback_context.state
 
     output_key = f"{agent_name}_output"
-
+      
     md_content = state.get(output_key, None)
     if md_content:
         filename = f"reports/{agent_name}_report.md"
@@ -21,7 +21,8 @@ def save_agent_output(callback_context: CallbackContext) -> None:
 
 
 def call_log(callback_context: CallbackContext) -> None:
-
+# call log function
+    # Purpose: to log/print the agentname with the respective state
     agent_name = callback_context.agent_name
     state = callback_context.state
 
