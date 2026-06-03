@@ -15,7 +15,7 @@ A multi-agent Python system for comprehensive stock analysis and equity research
 
 The main agent coordinates these sub-agents and synthesizes their findings into a unified research report.
 k
-
+k
 ## Features
 - Modular agent-based architecture
 - 
