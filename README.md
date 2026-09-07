@@ -41,7 +41,7 @@ stock_analysis_agent/
         technical_agent/
 mcp/
 ```
-
+kkk
 ## Requirements
 - Developed and tested on **Linux**. Performance on Windows is not garanteed
 - Python 3.11+
